@@ -6,8 +6,8 @@ _Loading and parsing Simulink MDL files.
 Displaying Simulink models in a hierarchical structure.
 
 # Dependencies
-*The Simulink Viewer project has the following dependencies:
+* The Simulink Viewer project has the following dependencies:
 
-*Java Development Kit (JDK)
-*JavaFX library
+  * Java Development Kit (JDK)
+  * JavaFX library
 Make sure you have the required JDK and JavaFX set up properly to build and run the application.
